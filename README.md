@@ -1,6 +1,6 @@
 # npmtest-templatizer
 
-#### test coverage for  [templatizer (v2.0.5)](https://github.com/HenrikJoreteg/templatizer)  [![npm package](https://img.shields.io/npm/v/npmtest-templatizer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-templatizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-templatizer.svg)](https://travis-ci.org/npmtest/node-npmtest-templatizer)
+#### basic test coverage for  [templatizer (v2.0.5)](https://github.com/HenrikJoreteg/templatizer)  [![npm package](https://img.shields.io/npm/v/npmtest-templatizer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-templatizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-templatizer.svg)](https://travis-ci.org/npmtest/node-npmtest-templatizer)
 
 #### Simple solution for compiling jade templates into vanilla JS functions for blazin' fast client-side use.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-templatizer/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-templatizer/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-templatizer/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-templatizer/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-templatizer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-templatizer/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-templatizer/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-templatizer/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-templatizer/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-templatizer/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-templatizer/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-templatizer/build/coverage.html/index.html)
 
