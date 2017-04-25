@@ -73,7 +73,7 @@
 <tspan x="10" y="1130">  │   ├─┬ cliui@2.1.0 </tspan>
 <tspan x="10" y="1146">  │   │ ├─┬ center-align@0.1.3 </tspan>
 <tspan x="10" y="1162">  │   │ │ ├─┬ align-text@0.1.4 </tspan>
-<tspan x="10" y="1178">  │   │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="1178">  │   │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="1194">  │   │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="1210">  │   │ │ │ ├── longest@1.0.1 </tspan>
 <tspan x="10" y="1226">  │   │ │ │ └── repeat-string@1.6.1 </tspan>
